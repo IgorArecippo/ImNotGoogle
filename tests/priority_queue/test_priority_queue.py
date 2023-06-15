@@ -32,6 +32,6 @@ def test_basic_priority_queueing():
         priority_queue.search(7)
 
     assert len(priority_queue) == 3
-    assert priority_queue.high_priority.dequeue() == file3
-    assert priority_queue.regular_priority.dequeue() == file1
-    assert priority_queue.regular_priority.dequeue() == file2
+    assert priority_queue.dequeue() == file3
+    assert priority_queue.dequeue() == file1
+    assert priority_queue.dequeue() == file2
