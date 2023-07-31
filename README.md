@@ -1,10 +1,15 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Neste projeto foi implementado um programa que simula um algoritmo de indexação de documentos similar ao do Google. Este programa é capaz de identificar ocorrências de termos em arquivos _TXT_.
+  
+Para isso, o programa conta com dois módulos:
+- **Módulo de gerenciamento de arquivos** que permite anexar arquivos de texto (formato _TXT_) e;
+- **Módulo de buscas** que permite operar funções de busca sobre os arquivos anexados.
+
+🚵 Habilidades exercitadas:
+
+ - Manipular Pilhas;
+
+ - Manipular Deque;
+
+ - Manipular Nó & Listas Ligadas e;
+
+ - Manipular Listas Duplamente Ligadas.
