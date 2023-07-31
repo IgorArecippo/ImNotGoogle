@@ -4,7 +4,7 @@ Para isso, o programa conta com dois módulos:
 - **Módulo de gerenciamento de arquivos** que permite anexar arquivos de texto (formato _TXT_) e;
 - **Módulo de buscas** que permite operar funções de busca sobre os arquivos anexados.
 
-🚵 Habilidades exercitadas:
+<h3>Habilidades exercitadas:</h3>
 
  - Manipular Pilhas;
 
