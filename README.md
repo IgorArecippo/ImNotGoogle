@@ -1,4 +1,4 @@
-Neste projeto foi implementado um programa que simula um algoritmo de indexação de documentos similar ao do Google. Este programa é capaz de identificar ocorrências de termos em arquivos _TXT_.
+Neste projeto Python foi implementado um programa que simula um algoritmo de indexação de documentos similar ao do Google. Este programa é capaz de identificar ocorrências de termos em arquivos _TXT_.
   
 Para isso, o programa conta com dois módulos:
 - **Módulo de gerenciamento de arquivos** que permite anexar arquivos de texto (formato _TXT_) e;
